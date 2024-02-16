@@ -1,0 +1,34 @@
+[
+{
+    "-id" : "1",
+   "name":"dress1",
+   "image":"/images/cta.png",
+   "details":"nice shirt",
+   "pice":14
+
+},
+{
+    "-id" : "2",
+   "name":"dress1",
+   "image":"/images/cta.png",
+   "details":"nice shirt",
+   "pice":14
+
+},
+{
+    "-id" : "3",
+   "name":"dress1",
+   "image":"/images/cta.png",
+   "details":"nice shirt",
+   "pice":14
+
+},
+{
+    "-id" : "4",
+   "name":"dress1",
+   "image":"/images/cta.png",
+   "details":"nice shirt",
+   "pice":14
+
+}
+]
